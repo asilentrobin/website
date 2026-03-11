@@ -36,8 +36,8 @@ header {
 }
 
 .bstext {
-width: 500px;
-height: 430px;
+width: 750px;
+height: 480px;
 border: auto;
 border-radius: 25px;
 padding: 20px;
@@ -45,7 +45,7 @@ margin: auto;
 background-color: #131119;
 color: white;
 text-align: center;
-font-size: 18px;
+font-size: 22px;
 letter-spacing: 1px;
 }
 
